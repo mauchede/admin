@@ -57,7 +57,9 @@ module.exports = {
         extensions: ['.js', '.json'],
       },
     },
-
+    react: {
+      version: 'detect',
+    },
   },
 
   rules: {
